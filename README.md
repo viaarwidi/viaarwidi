@@ -15,17 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like chocolate
 -->
 
-
-
-### Hi there 👋
-
-## I'm Rahul Dhanola.
+## I'm Olivia Putri Arwidiyanti.
 
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
-
+- 🎓 &nbsp; Studying Software Engineering at SMK Telkom Malang
 
 <br>
 
@@ -34,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-### 💻 Stack I Work With
+### 💻 Stack I Study With
 
 <br>
 
