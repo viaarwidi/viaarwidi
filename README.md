@@ -106,7 +106,7 @@ Here are some ideas to get you started:
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/olivia-putri/" target="_blank">
+<a href="https://www.linkedin.com/in/oolivia-putri-79a26a236/" target="_blank">
   <img align="center" alt="olivia putri | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/viaarwidi" target="_blank">
