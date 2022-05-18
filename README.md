@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=Node.js" height="25">
   <img src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react" height="25">
   <img src="https://img.shields.io/badge/Canva-05122A?style=for-the-badge&logo=canva" height="25">
-  <img src="https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=2C2255" height="25">
+  <img src="https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Github-05122A?style=for-the-badge&logo=github" height="25">
 
 </p>
