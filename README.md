@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 &nbsp;
   <img src="https://img.shields.io/badge/Boostrap-05122A?style=for-the-badge&logo=boostrap&logoColor=white" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=PHP&logoColor=white" height="25">
+<!--   <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=PHP&logoColor=white" height="25"> -->
   <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=Node.js&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Canva-05122A?style=for-the-badge&logo=canva&logoColor=white" height="25">
