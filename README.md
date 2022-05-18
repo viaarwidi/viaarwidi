@@ -43,17 +43,32 @@ Here are some ideas to get you started:
   
 <img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
- </p>
+<img src="https://img.shields.io/badge/edge-05122A.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=PHP&logoColor=white" height="25">
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+&nbsp;
+  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=white" height="25">
+
+</p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=white" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Boostrap-05122A?style=for-the-badge&logo=boostrap&logoColor=white" height="25">
 &nbsp;
-  
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=PHP&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=Node.js&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Canva-05122A?style=for-the-badge&logo=canva&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Github-05122A?style=for-the-badge&logo=github&logoColor=white" height="25">
 
 </p>
 <br>
